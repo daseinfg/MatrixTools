@@ -1,0 +1,10 @@
+Reduce A into reduced row echelon form with partial pivoting and Gauss-Jordan method.
+
+Input matrix A (2 x 6):
+[[ 0.   1.6  0.  32.   0.   0. ]
+ [ 0.   0.   0.   0.   0.   0. ]]
+
+Reduced row echelon form R (2 x 6):
+[[ 0.  1.  0. 20.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.]]
+

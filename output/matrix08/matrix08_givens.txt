@@ -1,0 +1,22 @@
+Householder Reduction, s.t. A=QR, where R is the reduced matrix.
+
+Input matrix A (3 x 6):
+[[12. 21. 54.  6.  4. 64.]
+ [ 0.  0.  1. 65. 65.  2.]
+ [ 0.  0.  0.  0. 32.  0.]]
+
+Q (3 x 3) (Orthonormal):
+[[1. 0. 0.]
+ [0. 1. 0.]
+ [0. 0. 1.]]
+
+R (3 x 6) (Reduced matrix):
+[[12. 21. 54.  6.  4. 64.]
+ [ 0.  0.  1. 65. 65.  2.]
+ [ 0.  0.  0.  0. 32.  0.]]
+
+(Check) Product of QR (3 x 6):
+[[12. 21. 54.  6.  4. 64.]
+ [ 0.  0.  1. 65. 65.  2.]
+ [ 0.  0.  0.  0. 32.  0.]]
+

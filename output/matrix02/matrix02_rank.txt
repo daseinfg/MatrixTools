@@ -1,0 +1,6 @@
+Rank of matrix A.
+
+Input matrix A (1 x 1):
+[[12.]]
+
+The rank of A is 1

@@ -1,0 +1,6 @@
+Determinant of matrix A.
+
+Input matrix A (1 x 1):
+[[12.]]
+
+The determinant of A is 12.0

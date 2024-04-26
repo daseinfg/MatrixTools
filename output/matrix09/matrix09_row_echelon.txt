@@ -1,0 +1,12 @@
+Reduce A into row echelon form with partial pivoting.
+
+Input matrix A (3 x 4):
+[[ 3.  2.  1. 39.]
+ [ 2.  3.  1. 34.]
+ [ 1.  2.  3. 26.]]
+
+Row echelon form R (3 x 4):
+[[ 3.       2.       1.      39.     ]
+ [ 0.       1.66667  0.33333  8.     ]
+ [ 0.       0.       2.4      6.6    ]]
+

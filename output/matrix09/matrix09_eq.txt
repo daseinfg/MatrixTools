@@ -1,0 +1,12 @@
+Solve Ax=b, given the augmented matrix C=[A|b].
+
+Input (augmented) matrix C (3 x 4):
+[[ 3.  2.  1. 39.]
+ [ 2.  3.  1. 34.]
+ [ 1.  2.  3. 26.]]
+
+The only solution is:
+[[9.25]
+ [4.25]
+ [2.75]]
+

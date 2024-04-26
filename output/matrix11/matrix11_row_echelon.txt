@@ -1,0 +1,10 @@
+Reduce A into row echelon form with partial pivoting.
+
+Input matrix A (2 x 3):
+[[   -10. 100000. 100000.]
+ [     1.      1.      2.]]
+
+Row echelon form R (2 x 3):
+[[   -10. 100000. 100000.]
+ [     0.  10001.  10002.]]
+

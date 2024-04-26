@@ -1,0 +1,10 @@
+Reduce A into row echelon form with partial pivoting.
+
+Input matrix A (2 x 6):
+[[ 0.   1.6  0.  32.   0.   0. ]
+ [ 0.   0.   0.   0.   0.   0. ]]
+
+Row echelon form R (2 x 6):
+[[ 0.   1.6  0.  32.   0.   0. ]
+ [ 0.   0.   0.   0.   0.   0. ]]
+

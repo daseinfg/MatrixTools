@@ -1,0 +1,7 @@
+Rank of matrix A.
+
+Input matrix A (2 x 6):
+[[ 0.   1.6  0.  32.   0.   0. ]
+ [ 0.   0.   0.   0.   0.   0. ]]
+
+The rank of A is 1

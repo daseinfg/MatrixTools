@@ -1,0 +1,17 @@
+URV decomposition of A, s.t. A=U @ R @ V.T.
+
+Input matrix A (1 x 1):
+[[12.]]
+
+U (1 x 1):
+[[1.]]
+
+R (1 x 1):
+[[12.]]
+
+V (1 x 1):
+[[1.]]
+
+(Check) Product of U, R, V.T, (1 x 1):
+[[12.]]
+

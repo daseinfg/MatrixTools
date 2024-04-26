@@ -1,0 +1,7 @@
+Rank of matrix A.
+
+Input matrix A (2 x 3):
+[[   -10. 100000. 100000.]
+ [     1.      1.      2.]]
+
+The rank of A is 2

@@ -1,0 +1,14 @@
+QR decomposition with Gram-Schmidt algorithm, s.t. A=QR.
+
+Input matrix A (1 x 1):
+[[12.]]
+
+Q (1 x 1):
+[[1.]]
+
+R (1 x 1):
+[[12.]]
+
+(Check) Product of QR (1 x 1):
+[[12.]]
+

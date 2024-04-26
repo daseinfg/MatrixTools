@@ -1,0 +1,14 @@
+Reduce A into row echelon form with partial pivoting.
+
+Input matrix A (4 x 4):
+[[0. 0. 0. 0.]
+ [0. 0. 0. 0.]
+ [0. 0. 0. 0.]
+ [0. 0. 0. 0.]]
+
+Row echelon form R (4 x 4):
+[[0. 0. 0. 0.]
+ [0. 0. 0. 0.]
+ [0. 0. 0. 0.]
+ [0. 0. 0. 0.]]
+

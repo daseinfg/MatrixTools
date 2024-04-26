@@ -1,0 +1,31 @@
+Solve Ax=b, given the augmented matrix C=[A|b].
+
+Input (augmented) matrix C (4 x 4):
+[[0. 0. 0. 0.]
+ [0. 0. 0. 0.]
+ [0. 0. 0. 0.]
+ [0. 0. 0. 0.]]
+
+ps (one particular solution to Ax=b):
+[[0.]
+ [0.]
+ [0.]]
+
+gs_list (3 general solutions to Ax=0):
+
+0-th gs (index from 0):
+[[-1.]
+ [ 0.]
+ [ 0.]]
+
+1-th gs (index from 0):
+[[ 0.]
+ [-1.]
+ [ 0.]]
+
+2-th gs (index from 0):
+[[ 0.]
+ [ 0.]
+ [-1.]]
+
+The general solution form: s = ps + \sum(k_i * gs_i), where k_i are free variables.

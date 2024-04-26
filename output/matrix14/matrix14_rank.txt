@@ -1,0 +1,9 @@
+Rank of matrix A.
+
+Input matrix A (4 x 4):
+[[0. 0. 0. 0.]
+ [0. 0. 0. 0.]
+ [0. 0. 0. 0.]
+ [0. 0. 0. 0.]]
+
+The rank of A is 0

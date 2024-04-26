@@ -1,0 +1,8 @@
+Rank of matrix A.
+
+Input matrix A (3 x 6):
+[[12. 21. 54.  6.  4. 64.]
+ [ 0.  0.  1. 65. 65.  2.]
+ [ 0.  0.  0.  0. 32.  0.]]
+
+The rank of A is 3

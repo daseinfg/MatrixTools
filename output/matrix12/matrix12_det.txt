@@ -1,0 +1,8 @@
+Determinant of matrix A.
+
+Input matrix A (3 x 3):
+[[1.    1.    1.   ]
+ [0.001 0.001 0.   ]
+ [0.001 0.    0.001]]
+
+The determinant of A is -1e-06

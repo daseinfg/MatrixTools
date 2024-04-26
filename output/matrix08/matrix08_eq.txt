@@ -1,0 +1,31 @@
+Solve Ax=b, given the augmented matrix C=[A|b].
+
+Input (augmented) matrix C (3 x 6):
+[[12. 21. 54.  6.  4. 64.]
+ [ 0.  0.  1. 65. 65.  2.]
+ [ 0.  0.  0.  0. 32.  0.]]
+
+ps (one particular solution to Ax=b):
+[[-3.66667]
+ [ 0.     ]
+ [ 2.     ]
+ [ 0.     ]
+ [ 0.     ]]
+
+gs_list (2 general solutions to Ax=0):
+
+0-th gs (index from 0):
+[[ 1.75]
+ [-1.  ]
+ [ 0.  ]
+ [ 0.  ]
+ [ 0.  ]]
+
+1-th gs (index from 0):
+[[-292.]
+ [   0.]
+ [  65.]
+ [  -1.]
+ [   0.]]
+
+The general solution form: s = ps + \sum(k_i * gs_i), where k_i are free variables.

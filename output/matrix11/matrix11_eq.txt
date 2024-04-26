@@ -1,0 +1,10 @@
+Solve Ax=b, given the augmented matrix C=[A|b].
+
+Input (augmented) matrix C (2 x 3):
+[[   -10. 100000. 100000.]
+ [     1.      1.      2.]]
+
+The only solution is:
+[[0.9999]
+ [1.0001]]
+

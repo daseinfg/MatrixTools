@@ -1,0 +1,8 @@
+Reduce A into row echelon form with partial pivoting.
+
+Input matrix A (1 x 1):
+[[12.]]
+
+Row echelon form R (1 x 1):
+[[12.]]
+
